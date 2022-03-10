@@ -11,7 +11,7 @@ function Header() {
       <header className="hero is-dark is-bold">
         <div className="hero-body">
           <div className="container">
-            <h1 className="title">犬の画像ギャラリー</h1>
+            <h1 className="title">犬の画像ギャラリーだよ</h1>
           </div>
         </div>
       </header>
